@@ -1,8 +1,8 @@
 safe: true
-baseurl: /drupal-the-right-way/
+baseurl: /
 url: http://localhost:4000
 
-pygments: true
+highlighter: true
 markdown: kramdown
 permalink: date
 maruku:
