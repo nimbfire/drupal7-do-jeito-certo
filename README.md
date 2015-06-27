@@ -1,4 +1,4 @@
-# Drupal 7: Do Jeio Certo
+# Drupal 7: Do Jeito Certo
 
 ## Sobre
 
