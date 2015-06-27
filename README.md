@@ -1,6 +1,6 @@
-# PHP: The Right Way
+# Drupal 7: Do Jeio Certo
 
-## Overview
+## Sobre
 
 This is the GitHub Pages repository for the _PHP: The Right Way_ project.
 
