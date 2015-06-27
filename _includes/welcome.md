@@ -1,4 +1,4 @@
-# Welcome
+# Bem-vindo
 
 There's a lot of outdated information on the Web that leads new PHP users astray,
 propagating bad practices and insecure code. _PHP: The Right Way_ is an easy-to-read,
@@ -16,7 +16,7 @@ in approach and use-case.
 This is a living document and will continue to be updated with more helpful information
 and examples as they become available.
 
-## Translations
+## Traduções
 
 _PHP: The Right Way_ is (or soon will be) translated into many different languages:
 
@@ -39,11 +39,11 @@ _PHP: The Right Way_ is (or soon will be) translated into many different languag
 * [Turkish](http://hkulekci.github.io/php-the-right-way/)
 * [Slovenian](http://sl.phptherightway.com)
 
-## How to Contribute
+## Como contribuir
 
 Help make this website the best resource for new PHP programmers! [Contribute on GitHub][1]
 
-## Spread the Word!
+## Divulgue o projeto!
 
 _PHP: The Right Way_ has web banner images you can use on your website. Show your support, and let new PHP developers
 know where to find good information!
